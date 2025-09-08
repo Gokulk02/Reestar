@@ -1,0 +1,55 @@
+.section-one{
+    background-color: black;
+    text-align: center;
+    padding:15px;
+}
+.section-one h1{
+    color:white;
+}
+.section-one p{
+    color:grey;
+}
+.section-two{
+    height:450px;
+    width:200px;
+    border: solid 2px black;
+    margin-top:10px;
+    display: inline-block;
+    
+   
+
+    
+    text-align: center;
+}
+.section-two button{
+    background-color: black;
+    color: white;
+}.section-last{
+    background-color: black;
+
+   text-align: center;
+    color:white;
+    margin-top: 2px;
+    padding-bottom: 5px;
+    
+   
+}
+.b{
+    background-color: yellow;
+    width:300px;
+    border:none;
+    margin-top: 5px;;
+    
+}
+.all{
+    margin:20px;
+    padding:30px;
+}
+.img{
+    padding-left: 400px;
+}
+.tab{
+    display: flex;
+    justify-content: center;
+}
+ 
